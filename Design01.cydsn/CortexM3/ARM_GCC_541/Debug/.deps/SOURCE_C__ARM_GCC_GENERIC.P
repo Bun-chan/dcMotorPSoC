@@ -1,10 +1,16 @@
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.c : 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/LCD.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin5_1.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin5_1_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin_12_7.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin_12_7_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cmsis_compiler.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/project.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/main.c 
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h : 
 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass_aliases.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h : 
+
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h : 
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h : 
 
@@ -12,97 +18,23 @@ D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h : 
 
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h : 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/LCD.h : 
 
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h : 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort.h : 
 
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_Bypass.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass_aliases.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cypins.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_INT.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_INT.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/cyapicallbacks.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_INT.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/cyapicallbacks.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_IRQ.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/cyapicallbacks.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_PM.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_PM.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_PM.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/ADC_SAR_1_theACLK.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/Cm3Start.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Cm3Start.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/cyapicallbacks.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Cm3Start.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CyDmac.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CyFlash.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CyLib.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/CySpc.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/Pin3_2.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2.c : 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/LCD_LCDPort_aliases.h : 
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2.h : 
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2_aliases.h : 
 
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cyPm.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/cyapicallbacks.h 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin5_1.h : 
 
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.c : 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin5_1_aliases.h : 
 
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cy_em_eeprom.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin_12_7.h : 
 
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cyfitter_cfg.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/cyapicallbacks.h 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/cyutils.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyutils.c 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyutils.c : 
-
-D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/CortexM3/ARM_GCC_541/Debug/main.o : D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cmsis_compiler.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cmsis_gcc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/core_cm3.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/project.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_Bypass_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_IRQ.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/ADC_SAR_1_theACLK.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyDmac.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyFlash.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CyLib.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/CySpc.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin3_2_aliases.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cypins.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/main.c 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/Pin_12_7_aliases.h : 
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cmsis_armcc.h : 
 
@@ -114,7 +46,23 @@ D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/core_cm3_psoc5.h : 
 
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyPm.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cy_em_eeprom.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydevice_trm.h : 
+
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cydisabledsheets.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cyfitter_cfg.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cypins.h : 
+
+D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/cytypes.h : 
 
 D:/Applications/PSoC/Projects2021/ECEA5341Motor/Design01.cydsn/Generated_Source/PSoC5/project.h : 
 

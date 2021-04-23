@@ -252,9 +252,11 @@
   <Group key="DWRInstGuidMapping">
     <Group key="Pin">
       <Data key="2ab6fde9-6cdb-4356-982a-8766c8bde2ca/16a808f6-2e13-45b9-bce0-b001c8655113" value="ADC_SAR_1_Bypass" />
+      <Data key="5d82def1-f279-464f-ae79-a7ebebf2811a" value="Pin_12_6" />
       <Data key="9f03d7c8-1650-4f0f-9d9b-feb87d90a427" value="Pin3_2" />
+      <Data key="256cb5e7-f0d2-4061-b58e-efed989612fd" value="Pin_12_7" />
       <Data key="77715107-f8d5-47e5-a629-0fb83101ac6b" value="Pin12_6" />
-      <Data key="e851a3b9-efb8-48be-bbb8-b303b216c393" value="Pin12_6" />
+      <Data key="e851a3b9-efb8-48be-bbb8-b303b216c393" value="Pin5_1" />
     </Group>
   </Group>
   <Group key="EEPROM">
@@ -3341,14 +3343,24 @@
     </Group>
   </Group>
   <Group key="Pin2">
+    <Group key="5d82def1-f279-464f-ae79-a7ebebf2811a">
+      <Group key="0">
+        <Data key="Port Format" value="12,6" />
+      </Group>
+    </Group>
     <Group key="9f03d7c8-1650-4f0f-9d9b-feb87d90a427">
       <Group key="0">
         <Data key="Port Format" value="3,2" />
       </Group>
     </Group>
+    <Group key="256cb5e7-f0d2-4061-b58e-efed989612fd">
+      <Group key="0">
+        <Data key="Port Format" value="12,7" />
+      </Group>
+    </Group>
     <Group key="e851a3b9-efb8-48be-bbb8-b303b216c393">
       <Group key="0">
-        <Data key="Port Format" value="12,6" />
+        <Data key="Port Format" value="1,5" />
       </Group>
     </Group>
     <Group key="UnAssigned Pins">
