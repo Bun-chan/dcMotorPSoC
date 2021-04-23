@@ -13,7 +13,7 @@
 <v>Output</v>
 </TreeKeys>
 <TreeStates>
-<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ECEA5341Motor\Design01\Design01.cydwr">
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="ECEA5341Motor\Design01\TopDesign">
 <ExpandedNodeIds>
 <v>ECEA5341Motor</v>
 <v>ECEA5341Motor\Design01</v>
@@ -151,7 +151,7 @@
 <v>ECEA5341Motor\Design01\PSoC 5LP Architecture TRM</v>
 <v>ECEA5341Motor\Design01\CY8C58LP Family Datasheet</v>
 <v>ECEA5341Motor\Design01\System Reference Guides</v>
-<v>ECEA5341Motor\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>ECEA5341Motor\Design01\System Reference Guides\cy_boot_v6_10</v>
 <v>ECEA5341Motor\Design01\ADC_SAR_v3_10.pdf</v>
 <v>ECEA5341Motor\Design01\cy_pins_v2_20.pdf</v>
 <v>ECEA5341Motor\Design01\Diode_v1_0.pdf</v>
@@ -168,7 +168,7 @@
 <v>ECEA5341Motor\Design01\PSoC 5LP Architecture TRM</v>
 <v>ECEA5341Motor\Design01\CY8C58LP Family Datasheet</v>
 <v>ECEA5341Motor\Design01\System Reference Guides</v>
-<v>ECEA5341Motor\Design01\System Reference Guides\cy_boot_v6_0</v>
+<v>ECEA5341Motor\Design01\System Reference Guides\cy_boot_v6_10</v>
 <v>ECEA5341Motor\Design01\ADC_SAR_v3_10.pdf</v>
 <v>ECEA5341Motor\Design01\cy_pins_v2_20.pdf</v>
 <v>ECEA5341Motor\Design01\Diode_v1_0.pdf</v>
@@ -188,7 +188,7 @@
 <Unloaded />
 <OpenDocs>
 <name v=".\Design01.cydsn\TopDesign\TopDesign.cysch" />
-<name v=".\Design01.cydsn\Design01.cydwr" />
+<name v=".\Design01.cydsn\main.c" />
 </OpenDocs>
 <OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
 
@@ -196,7 +196,7 @@
   Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
   http://www.actiprosoftware.com
 
---><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1328, 577" SelectedTabbedMdiWindow="fb972fb0-35b0-486c-9595-806ffd2cc6b6"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="ac383f04-67ed-4c00-80ea-f26e081b82f3" /><DocumentWindow Key="C:\Users\steph\Documents\PSoC Creator\ECEA5341Motor\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="fb972fb0-35b0-486c-9595-806ffd2cc6b6" /><DocumentWindow Key="C:\Users\steph\Documents\PSoC Creator\ECEA5341Motor\Design01.cydsn\Design01.cydwr" Guid="1ff75990-005b-4f14-9f96-2456c31f76af" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1328, 577" SelectedTabbedMdiWindow="fe09a8dc-81d8-4bab-ad6f-8a9c6a5d896b"><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="ac383f04-67ed-4c00-80ea-f26e081b82f3" /><DocumentWindow Key="D:\Applications\PSoC\Projects2021\ECEA5341Motor\Design01.cydsn\TopDesign\TopDesign.cysch" Guid="ac46e87e-0387-4173-8f55-ef33e6d3e1cf" /><DocumentWindow Key="D:\Applications\PSoC\Projects2021\ECEA5341Motor\Design01.cydsn\main.c" Guid="fe09a8dc-81d8-4bab-ad6f-8a9c6a5d896b" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
 <config v="" />
 <AutoUpdate v="true" />
 </CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>

@@ -700,7 +700,7 @@ END GROUP
 .debug_pubnames
  *(.debug_pubnames)
 
-.debug_info     0x00000000     0x34b1
+.debug_info     0x00000000     0x34ad
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x00000000       0xcb .\CortexM3\ARM_GCC_541\Debug\main.o
  .debug_info    0x000000cb      0x52b .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
@@ -708,9 +708,9 @@ END GROUP
  .debug_info    0x0000072a      0x3bb .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
  .debug_info    0x00000ae5     0x1374 .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyLib.o)
  .debug_info    0x00001e59      0xa2a .\CortexM3\ARM_GCC_541\Debug\Design01.a(cyPm.o)
- .debug_info    0x00002883       0x91 .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyBootAsmGnu.o)
- .debug_info    0x00002914      0x64d .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyFlash.o)
- .debug_info    0x00002f61      0x550 .\CortexM3\ARM_GCC_541\Debug\Design01.a(CySpc.o)
+ .debug_info    0x00002883       0x8d .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyBootAsmGnu.o)
+ .debug_info    0x00002910      0x64d .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyFlash.o)
+ .debug_info    0x00002f5d      0x550 .\CortexM3\ARM_GCC_541\Debug\Design01.a(CySpc.o)
 
 .debug_abbrev   0x00000000      0xbfd
  *(.debug_abbrev)
@@ -751,24 +751,24 @@ END GROUP
  .debug_frame   0x00000e8c       0x28 d:/applications/psoc/psoc creator/4.4/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memcpy-stub.o)
  .debug_frame   0x00000eb4       0x20 d:/applications/psoc/psoc creator/4.4/psoc creator/import/gnu/arm/5.4.1/bin/../lib/gcc/arm-none-eabi/5.4.1/../../../../arm-none-eabi/lib/armv7-m\libg_nano.a(lib_a-memset.o)
 
-.debug_str      0x00000000     0x12c9
+.debug_str      0x00000000     0x1308
  *(.debug_str)
- .debug_str     0x00000000      0x15f .\CortexM3\ARM_GCC_541\Debug\main.o
-                                0x1a7 (size before relaxing)
- .debug_str     0x0000015f      0x191 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
-                                0x31a (size before relaxing)
- .debug_str     0x000002f0       0x7f .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
+ .debug_str     0x00000000      0x15b .\CortexM3\ARM_GCC_541\Debug\main.o
+                                0x1a3 (size before relaxing)
+ .debug_str     0x0000015b      0x191 .\CortexM3\ARM_GCC_541\Debug\cyfitter_cfg.o
+                                0x316 (size before relaxing)
+ .debug_str     0x000002ec       0xc2 .\CortexM3\ARM_GCC_541\Debug\cymetadata.o
                                 0x1e5 (size before relaxing)
- .debug_str     0x0000036f      0x144 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
-                                0x30b (size before relaxing)
- .debug_str     0x000004b3      0x84a .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyLib.o)
-                                0xa48 (size before relaxing)
- .debug_str     0x00000cfd      0x365 .\CortexM3\ARM_GCC_541\Debug\Design01.a(cyPm.o)
-                                0x734 (size before relaxing)
- .debug_str     0x00001062      0x1bb .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyFlash.o)
-                                0x3c1 (size before relaxing)
- .debug_str     0x0000121d       0xac .\CortexM3\ARM_GCC_541\Debug\Design01.a(CySpc.o)
-                                0x339 (size before relaxing)
+ .debug_str     0x000003ae      0x144 .\CortexM3\ARM_GCC_541\Debug\Cm3Start.o
+                                0x307 (size before relaxing)
+ .debug_str     0x000004f2      0x84a .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyLib.o)
+                                0xa44 (size before relaxing)
+ .debug_str     0x00000d3c      0x365 .\CortexM3\ARM_GCC_541\Debug\Design01.a(cyPm.o)
+                                0x730 (size before relaxing)
+ .debug_str     0x000010a1      0x1bb .\CortexM3\ARM_GCC_541\Debug\Design01.a(CyFlash.o)
+                                0x3bd (size before relaxing)
+ .debug_str     0x0000125c       0xac .\CortexM3\ARM_GCC_541\Debug\Design01.a(CySpc.o)
+                                0x335 (size before relaxing)
 
 .debug_loc      0x00000000     0x19ed
  *(.debug_loc)
@@ -864,4 +864,4 @@ END GROUP
 
 /DISCARD/
  *(.note.GNU-stack)
-OUTPUT(C:\Users\steph\Documents\PSoC Creator\ECEA5341Motor\Design01.cydsn\CortexM3\ARM_GCC_541\Debug\Design01.elf elf32-littlearm)
+OUTPUT(D:\Applications\PSoC\Projects2021\ECEA5341Motor\Design01.cydsn\CortexM3\ARM_GCC_541\Debug\Design01.elf elf32-littlearm)

@@ -1,6 +1,6 @@
-C:\Users\steph\Documents\PSoC Creator\ECEA5341Motor\Design01.cydsn\Design01.cyprj|8f2dcb40-2798-4a88-8831-0a1b68ab7db4
-D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|d3982743-9515-4f3a-82bb-6a115a729246
-C:\Users\steph\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|88c235ca-b305-45d4-9027-37e92b533533
-D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|2d0278c4-101c-4a02-aaa1-d8b04a774320
-D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|f4379a6f-1419-4788-9e97-04f26cd53bd0
-D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|a9fec01e-1094-4589-8520-72bf7ed778e2
+D:\Applications\PSoC\Projects2021\ECEA5341Motor\Design01.cydsn\Design01.cyprj|4fe77548-cd78-4840-a542-907767ef8a78
+D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|15dcb280-2b80-4f9d-b673-c212116d257d
+C:\Users\steph\Documents\PSoC Creator\4.4\Downloads ( 4.4).cylib\Downloads ( 4.4).cyprj|428b526b-9626-4bbc-a291-fdc37d47825c
+D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|87006670-f6d0-45a0-b9ed-0296aedaaccb
+D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|41b9cb0d-1772-4dd5-9067-606edb51dd8d
+D:\Applications\PSoC\PSoC Creator\4.4\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|491dad0c-d85e-46cf-8d58-b516bde00133
